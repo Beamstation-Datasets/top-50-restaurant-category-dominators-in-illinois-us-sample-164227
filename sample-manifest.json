@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6a25960f-c01d-47a0-855e-bb4b3482b1f1",
+  "export_job_id": "11985305-8950-4804-a041-f6e20577f59e",
   "id_short": 164227,
-  "published_at": "2026-04-11T19:02:59Z",
+  "published_at": "2026-04-18T07:30:29Z",
   "repo_name": "top-50-restaurant-category-dominators-in-illinois-us-sample-164227",
   "sample_asset_name": "beamstation_164227_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/164227/beamstation_164227_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "637b264b8638314ac264e66142c2175ca88ef5fe352f6d01435a17a0e21a3cd9",
-  "sample_size_bytes": 30579,
-  "total_records": 46
+  "sample_records": 4,
+  "sample_sha256": "5257d7de3eea8906b5139b48a74acb518cd1abb134b23955a37d7c8f86649b6e",
+  "sample_size_bytes": 33740,
+  "total_records": 49
 }
