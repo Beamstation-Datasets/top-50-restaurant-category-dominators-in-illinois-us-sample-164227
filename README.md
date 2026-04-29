@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Illinois, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `164227` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 90 records |
-| Free sample size | 9 records (10.0%) |
-| Last export | 2026-04-22T04:53:37.716322+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-29T07:14:22.278552+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-illinois-us-sample-164227/releases/download/sample-latest/beamstation_164227_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
